@@ -25,7 +25,7 @@ A React-based web app that generates recipes using AI based on ingredients you p
 `REACT_APP_HUGGING_FACE_API_KEY=your-api-key-here`  
 
 4. Start the app:  
-`npm start`  
+`npm run dev`  
 
 ## Usage  
 1. Enter your ingredients  
